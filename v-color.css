@@ -1,0 +1,132 @@
+/* Backgrounds */
+.v-red {
+    color: #fff;
+    background-color: #bd1e24
+}
+
+.v-orange {
+    color: #fff;
+    background-color: #e97600
+}
+
+.v-yellow {
+    color: #000;
+    background-color: #f6c700
+}
+
+.v-green {
+    color: #fff;
+    background-color: #007256
+}
+
+.v-blue {
+    color: #fff;
+    background-color: #0067a7
+}
+
+.v-purple {
+    color: #fff;
+    background-color: #964f8e
+}
+
+.v-pink {
+    color: #fff;
+    background-color: #ed60dd
+}
+
+.v-brown {
+    color: #fff;
+    background-color: #936a32
+}
+
+.v-white {
+    color: #000;
+    background-color: #FFF
+}
+
+.v-light-gray {
+    color: #000;
+    background-color: #e0e0e0
+}
+
+.v-gray {
+    color: #000;
+    background-color: #adadad
+}
+
+.v-dark-gray {
+    color: #fff;
+    background-color: #6c6c6c
+}
+
+.v-black {
+    color: #fff;
+    background-color: #000
+}
+
+/* Borders */
+
+.v-border-red {
+
+    border: 1px solid #bd1e24
+}
+
+.v-border-orange {
+
+    border: 1px solid #e97600
+}
+
+.v-border-yellow {
+
+    border: 1px solid #f6c700
+}
+
+.v-border-green {
+
+    border: 1px solid #007256
+}
+
+.v-border-blue {
+
+    border: 1px solid #0067a7
+}
+
+.v-border-purple {
+
+    border: 1px solid #964f8e
+}
+
+.v-border-pink {
+
+    border: 1px solid #ed60dd
+}
+
+.v-border-brown {
+
+    border: 1px solid #936a32
+}
+
+.v-border-white {
+
+    border: 1px solid #FFF
+}
+
+.v-border-light-gray {
+
+    border: 1px solid #e0e0e0
+}
+
+.v-border-gray {
+
+    border: 1px solid #adadad
+}
+
+.v-border-dark-gray {
+
+    border: 1px solid #6c6c6c
+}
+
+.v-border-black {
+
+    border: 1px solid #000
+}
